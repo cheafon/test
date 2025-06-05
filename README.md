@@ -1,4 +1,4 @@
-本地项目链接：E:\研究生阶段\毕设\twitter_news\twitter_ai_papers
+本地项目链接是：E:\研究生阶段\毕设\twitter_news\twitter_ai_papers
 main是api运行的接口
 服务器：10.10.12.36
 路径：/home/auserwn/twitter_ai_papers
