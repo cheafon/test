@@ -1,22 +1,6 @@
 <div align="center">
 
-# Table of Contents
-- [🔥 AI Spotlight](#-ai-spotlight-trending-research-papers)
-- [📜 Papers](#-papers)
-  - [Survey](#survey)
-  - [Prompt Engineering](#prompt-engineering)
-    - [Prompt Design](#prompt-design)
-    - [Chain of Thought](#chain-of-thought)
-    - [In-context Learning](#in-context-learning)
-    - [Retrieval Augmented Generation](#retrieval-augmented-generation)
-    - [Evaluation \& Reliability](#evaluation--reliability)
-  - [Agent](#agent)
-  - [Multimodal Prompt](#multimodal-prompt)
-  - [Prompt Application](#prompt-application)
-  - [Foundation Models](#foundation-models)
-- [👨‍💻 LLM Usage](#-llm-usage)
-- [✉️ Contact](#️-contact)
-- [🙏 Acknowledgements](#-acknowledgements)
+
 
 <img width="200%" src="./figures/hr.gif" />
 
