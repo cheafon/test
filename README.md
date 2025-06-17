@@ -7,6 +7,40 @@
 <!-- ☄️ **May 1, 2025** *– Buzzing papers everyone’s talking about* -->
 
 
+### **[2025-06-17]**
+
+[**Vector Ontologies as an LLM world view extraction method**](https://arxiv.org/abs/2506.13252)
+
+<font color="gray">Kaspar Rothenfusser, Bekk Blando - [arXiv]</font>
+
+
+---
+
+[**Lecture Video Visual Objects (LVVO) Dataset: A Benchmark for Visual Object Detection in Educational Videos**](https://arxiv.org/abs/2506.13657)
+
+<font color="gray">Dipayan Biswas, Shishir Shah, Jaspal Subhlok - [arXiv]</font>
+
+
+---
+
+[**DETRPose: Real-time end-to-end transformer model for multi-person pose estimation**](https://arxiv.org/abs/2506.13027)
+
+<font color="gray">Sebastian Janampa, Marios Pattichis - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-1-blue)](https://github.com/SebastianJanampa/DETRPose)
+
+---
+
+[**Vine Copulas as Differentiable Computational Graphs**](https://arxiv.org/abs/2506.13318)
+
+<font color="gray">Tuoyuan Cheng, Thibault Vatter, Thomas Nagler, Kan Chen - [arXiv]</font>
+
+[![](https://img.shields.io/badge/GitHub%20Stars-179-blue)](https://github.com/TY-Cheng/torchvinecopulib)
+
+---
+
+
+
 ### **[2025-06-08]**
 
 [**LLaMA-Factory: Unified Efficient Fine-Tuning of 100+ Language Models**](https://arxiv.org/abs/2406.01234) （**New**）
