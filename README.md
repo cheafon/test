@@ -13,6 +13,10 @@
 
 <font color="gray">Kaspar Rothenfusser, Bekk Blando - [arXiv]</font>
 
+![](https://img.shields.io/badge/Citations-10-9cf)
+![](https://img.shields.io/badge/Twitter%20Mentions-13-1DA1F2)
+![](https://img.shields.io/badge/Mendeley%20Readers-11-red)
+![](https://img.shields.io/badge/News%20Mentions-20-green)
 
 ---
 
@@ -20,6 +24,10 @@
 
 <font color="gray">Dipayan Biswas, Shishir Shah, Jaspal Subhlok - [arXiv]</font>
 
+![](https://img.shields.io/badge/Citations-1-9cf)
+![](https://img.shields.io/badge/Twitter%20Mentions-60-1DA1F2)
+![](https://img.shields.io/badge/Mendeley%20Readers-3-red)
+![](https://img.shields.io/badge/News%20Mentions-10-green)
 
 ---
 
@@ -27,7 +35,11 @@
 
 <font color="gray">Sebastian Janampa, Marios Pattichis - [arXiv]</font>
 
+![](https://img.shields.io/badge/Citations-3-9cf)
+![](https://img.shields.io/badge/Twitter%20Mentions-9-1DA1F2)
 [![](https://img.shields.io/badge/GitHub%20Stars-1-blue)](https://github.com/SebastianJanampa/DETRPose)
+![](https://img.shields.io/badge/Mendeley%20Readers-6-red)
+![](https://img.shields.io/badge/News%20Mentions-30-green)
 
 ---
 
@@ -35,7 +47,11 @@
 
 <font color="gray">Tuoyuan Cheng, Thibault Vatter, Thomas Nagler, Kan Chen - [arXiv]</font>
 
+![](https://img.shields.io/badge/Citations-30-9cf)
+![](https://img.shields.io/badge/Twitter%20Mentions-36-1DA1F2)
 [![](https://img.shields.io/badge/GitHub%20Stars-179-blue)](https://github.com/TY-Cheng/torchvinecopulib)
+![](https://img.shields.io/badge/Mendeley%20Readers-22-red)
+![](https://img.shields.io/badge/News%20Mentions-11-green)
 
 ---
 
