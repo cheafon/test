@@ -3,6 +3,8 @@
 <img width="200%" src="./figures/hr.gif" />
 
 # 🔥 AI Spotlight: Trending Research Papers
+Welcome to AI Spotlight — a curated list of the latest and trending AI research papers.
+
 <!-- 🔥🔥🔥 -->
 <!-- ☄️ **May 1, 2025** *– Buzzing papers everyone’s talking about* -->
 
